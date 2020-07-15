@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I am Jose & I am Researcher Associate at Illinois Institute of Technology.
+
+---
+
+How to reach me: [Linkedin](www.linkedin.com/in/jlpalominogallo)
+
+---
+
+💻 Active Learning, 🤝Teamwork, 👨‍💻Problem Solving
+
 <!--
 **palominogallo/palominogallo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
